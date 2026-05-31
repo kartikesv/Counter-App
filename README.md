@@ -7,4 +7,4 @@ Repository link - https://github.com/kartikesv/Counter-App
 
 **App Screens**
 
-https://github.com/kartikesv/Counter-App/issues/1
+![image_alt](https://github.com/kartikesv/Counter-App/blob/318377ee37624d5a80dc795e24fbbe57838631d9/CounterApp1.png)
