@@ -5,3 +5,6 @@ Repository link - https://github.com/kartikesv/Counter-App
 
 **Tech Stack** - Jetpack compoose(Scaffold, Column, Row, Text, Button), Kotlin, Stateflow, SharedFlow, ViewModel, MVVM architecture
 
+**App Screens**
+
+https://github.com/kartikesv/Counter-App/issues/1
